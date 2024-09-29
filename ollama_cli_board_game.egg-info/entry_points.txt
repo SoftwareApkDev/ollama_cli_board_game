@@ -1,0 +1,2 @@
+[console_scripts]
+ollama_cli_board_game = ollama_cli_board_game.ollama_cli_board_game:main

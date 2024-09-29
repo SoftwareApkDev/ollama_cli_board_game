@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+ollama_cli_board_game/ollama_cli_board_game.py
+ollama_cli_board_game.egg-info/PKG-INFO
+ollama_cli_board_game.egg-info/SOURCES.txt
+ollama_cli_board_game.egg-info/dependency_links.txt
+ollama_cli_board_game.egg-info/entry_points.txt
+ollama_cli_board_game.egg-info/top_level.txt

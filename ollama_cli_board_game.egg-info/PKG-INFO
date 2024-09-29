@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: ollama_cli_board_game
+Version: 1
+Summary: This package contains implementation of a board game on command-line interface with Ollama AI integrated into it.
+Home-page: https://github.com/SoftwareApkDev/ollama_cli_board_game
+Author: SoftwareApkDev
+Author-email: softwareapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # ollama_cli_board_game
 
 **Ollama CLI Board Game** is a board game on command-line interface with Ollama AI integrated into it.
